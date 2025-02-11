@@ -10,37 +10,37 @@ Hardwares são todas as partes fisicas do computador, falando de forma mais deta
 
 1. Processador (CPU - Unidade Central de Processamento): 
 ```markdown
-- Considerado o "cérebro" do computador, ele executa instruções de programas e realiza cálculos.
+     Considerado o "cérebro" do computador, ele executa instruções de programas e realiza cálculos.
 ```
 
 2. Memória RAM (Memória de Acesso Aleatório): 
 ```markdown
-- Armazena dados temporariamente enquanto o computador está ligado, permitindo acesso rápido a esses dados.
+          Armazena dados temporariamente enquanto o computador está ligado, permitindo acesso rápido a esses dados.
 ```
 
 3. Disco Rígido (HDD) ou Unidade de Estado Sólido (SSD): 
 ```markdown
-- Dispositivos de armazenamento onde dados e arquivos são guardados permanentemente.
+          Dispositivos de armazenamento onde dados e arquivos são guardados permanentemente.
 ```
 
 4. Placa-mãe:
 ```markdown 
-- A principal placa de circuito onde todos os componentes do computador se conectam e se comunicam.
+          A principal placa de circuito onde todos os componentes do computador se conectam e se comunicam.
 ```
 
 5. Placa de Vídeo (GPU): 
 ```markdown
-     Responsável por processar e renderizar gráficos, especialmente importante em jogos e aplicativos gráficos intensivos.
+          Responsável por processar e renderizar gráficos, especialmente importante em jogos e aplicativos gráficos intensivos.
 ```
 
 6. Monitor:
 ```markdown 
-     Dispositivo que exibe informações visuais ao usuário.
+          Dispositivo que exibe informações visuais ao usuário.
 ```
 
 7. Teclado e Mouse:
 ```markdown  
-     Dispositivos de entrada que permitem ao usuário interagir com o computador. 
+          Dispositivos de entrada que permitem ao usuário interagir com o computador. 
 ```
 #
 ![](https://img.freepik.com/vetores-gratis/engenheiro-de-ti-composicao-isometrica_1284-25087.jpg)
