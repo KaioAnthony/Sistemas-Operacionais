@@ -280,10 +280,10 @@ O Windows é um sistema operacional desenvolvido pela Microsoft e lançado pela 
 
 ## Curiosidades
 
-![](https://cdn-icons-png.flaticon.com/512/7919/7919833.png
+![](https://cdn-icons-png.flaticon.com/512/7919/7919833.png)
 
 
-#### Algumas curiosidades que talvez possa lhe interessar você!
+### Algumas curiosidades que talvez possa lhe interessar você!
 
 Origem do Nome: 
 ```markdown
