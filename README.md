@@ -277,5 +277,47 @@ O Windows é um sistema operacional desenvolvido pela Microsoft e lançado pela 
           A versão mais recente, com uma interface renovada e novas funcionalidades, mantendo a compatibilidade com aplicativos antigos.
 ```
 #
+
+##Curiosidades
+![](https://cdn-icons-png.flaticon.com/512/7919/7919833.png)
+Algumas curiosidades que talvez possa lhe interessar você!
+
+Origem do Nome: 
+```markdown
+          O nome "Windows" foi escolhido porque o sistema operacional usa "janelas"
+          (ou "windows" em inglês) para exibir informações e tarefas.
+```
+
+Data de Lançamento: 
+```markdown
+          A primeira versão do Windows, conhecida como Windows 1.0, foi lançada em 20 de novembro de 1985.
+```
+
+Solitaire e Minhas: 
+```markdown
+          ogos como o Solitaire (Paciência) e o Minesweeper (Campo Minado) foram incluídos
+          no Windows não apenas para entretenimento, mas também para ajudar os usuários a aprender a usar
+          o mouse e os recursos do sistema
+```
+
+Windows XP: 
+```markdown
+          Lançado em 2001, é considerado um dos melhores sistemas operacionais.
+```
+
+Blue Screen of Death (BSOD): 
+```markdown
+          A famosa "Tela Azul da Morte" é uma tela de erro que aparece quando o sistema operacional encontra um problema crítico. Ela existe desde as primeiras versões do Windows e é temida por muitos usuários.
+```
+
+Easter Eggs: 
+```markdown
+          Surpresas escondidas, como Hall of Tortured Souls (Windows 95): Jogo de labirinto oculto no Excel 95,
+          Lista de Desenvolvedores (Windows 3.1): Lista dos desenvolvedores aparece ao renomear um grupo de aplicativos,
+          Mensagem Oculta (Windows XP): Criar uma pasta chamada "Con" faz com que ela desapareça,
+          Pinball (Windows NT): Jogo de Pinball escondido no Windows NT 4.0.
+          Volta ao Mundo (Windows 10): Globo terrestre gira rapidamente no aplicativo Alarme e Relógio ao clicar na lupa.
+```
+
 ## Conclusão
 O Windows dominou o mercado de computadores pessoais por muitos anos, tornando-se sinônimo de "PC" para muitas pessoas. Ele continua a ser uma plataforma central para muitos usuários e empresas ao redor do mundo.
