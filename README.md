@@ -316,7 +316,9 @@ Blue Screen of Death (BSOD):
 
 Easter Eggs: 
 ```markdown
-          Surpresas escondidas, como Hall of Tortured Souls (Windows 95): Jogo de labirinto oculto no Excel 95,
+          Surpresas escondidas como:
+
+          Hall of Tortured Souls (Windows 95): Jogo de labirinto oculto no Excel 95,
 
           Lista de Desenvolvedores (Windows 3.1): Lista dos desenvolvedores aparece ao renomear um grupo de aplicativos,
 
