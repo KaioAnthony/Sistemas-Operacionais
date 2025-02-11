@@ -278,7 +278,7 @@ O Windows é um sistema operacional desenvolvido pela Microsoft e lançado pela 
 ```
 #
 
-##Curiosidades
+## Curiosidades
 ![](https://cdn-icons-png.flaticon.com/512/7919/7919833.png)
 Algumas curiosidades que talvez possa lhe interessar você!
 
@@ -307,16 +307,22 @@ Windows XP:
 
 Blue Screen of Death (BSOD): 
 ```markdown
-          A famosa "Tela Azul da Morte" é uma tela de erro que aparece quando o sistema operacional encontra um problema crítico. Ela existe desde as primeiras versões do Windows e é temida por muitos usuários.
+          A famosa "Tela Azul da Morte" é uma tela de erro que aparece quando o sistema operacional encontra
+          um problema crítico. Ela existe desde as primeiras versões do Windows e é temida por muitos usuários.
 ```
 
 Easter Eggs: 
 ```markdown
           Surpresas escondidas, como Hall of Tortured Souls (Windows 95): Jogo de labirinto oculto no Excel 95,
+
           Lista de Desenvolvedores (Windows 3.1): Lista dos desenvolvedores aparece ao renomear um grupo de aplicativos,
+
           Mensagem Oculta (Windows XP): Criar uma pasta chamada "Con" faz com que ela desapareça,
+
           Pinball (Windows NT): Jogo de Pinball escondido no Windows NT 4.0.
+
           Volta ao Mundo (Windows 10): Globo terrestre gira rapidamente no aplicativo Alarme e Relógio ao clicar na lupa.
+
 ```
 
 ## Conclusão
