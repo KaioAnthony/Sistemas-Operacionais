@@ -42,7 +42,7 @@ Hardwares são todas as partes fisicas do computador, falando de forma mais deta
 ```markdown  
      Dispositivos de entrada que permitem ao usuário interagir com o computador. 
 ```
-###
+#
 ![](https://img.freepik.com/vetores-gratis/engenheiro-de-ti-composicao-isometrica_1284-25087.jpg)
 ### Oque são Softwares?
 
@@ -84,13 +84,13 @@ Software refere-se aos programas e aplicativos que executam tarefas específicas
  ```markdown 
      Como Fortnite, Minecraft.
 ```
-###
+#
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gqEiwIMVkR2A96zjYYppEe4EAXVBaD5gnRxhFJLT3iYoFfMK5fdOMqOWSHXCYxW9k94&usqp=CAU)
 
 ### Relação entre Sofware e Hardwares
 
 O hardware e o software trabalham juntos de forma complementar. O hardware fornece a infraestrutura física necessária para o funcionamento do computador, enquanto o software fornece as instruções para que o hardware realize tarefas específicas. Por exemplo, quando você escreve um documento no Microsoft Word (software), o processador (hardware) está executando as instruções necessárias para exibir o texto na tela (monitor), armazenar os dados na memória RAM e salvar o arquivo no disco rígido.
-###
+#
 ## Oque são os sistemes operacionais
 
 Um sistema operacional (SO) é um software essencial que gerencia todos os componentes de hardware e software de um computador. Ele age como um intermediário entre os usuários e o hardware do computador, permitindo que as pessoas executem aplicativos e programas sem precisar entender as complexidades do hardware subjacente.
@@ -127,7 +127,7 @@ Um sistema operacional (SO) é um software essencial que gerencia todos os compo
      Fornece uma interface que permite aos usuários interagirem facilmente com o computador,
      seja por meio de interfaces de linha de comando (CLI) ou interfaces gráficas de usuário (GUI).
 ```
-###
+#
 #### Exemplos de sistemas operacionais:
 
 1. Windows:
@@ -155,9 +155,9 @@ Um sistema operacional (SO) é um software essencial que gerencia todos os compo
      móveis e desenvolvido pelo Google.
 ```
 
-5. iOS: Desenvolvido pela Apple para
+5. iOS:
 ```markdown  
-     Dispositivos móveis, como iPhones e iPads.
+     Desenvolvido pela Apple para Dispositivos móveis, como iPhones e iPads.
 ```
 ##
 ![](https://miro.medium.com/v2/resize:fit:754/1*zjpA46uhnmbENYQ69T0mbw.png)
@@ -197,7 +197,7 @@ fornecendo melhorias de desempenho, novos recursos e patches de segurança.
 O Windows oferece integração com outros serviços da Microsoft, 
 como o Office 365, OneDrive e Xbox.
 ```
-###
+#
 #### Versões Populares do Windows:
 
 Windows 95:
@@ -219,9 +219,9 @@ Windows 10:
 ```markdown
 Versão atual com atualizações contínuas e integração com serviços de nuvem.
 ```
-###
+#
 ![](https://learn.microsoft.com/pt-br/windows/images/windows-logo.png)
-###
+#
 
 ## Historia do Windows
 O Windows é um sistema operacional desenvolvido pela Microsoft e lançado pela primeira vez em 20 de novembro de 1985 Desde então, ele passou por várias evoluções e melhorias, tornando-se um dos sistemas operacionais mais populares do mundo
@@ -276,6 +276,6 @@ Voltou a uma interface mais familiar, com atualizações contínuas e integraç�
 ```markdown 
 A versão mais recente, com uma interface renovada e novas funcionalidades, mantendo a compatibilidade com aplicativos antigos.
 ```
-###
+#
 ## Conclusão
 O Windows dominou o mercado de computadores pessoais por muitos anos, tornando-se sinônimo de "PC" para muitas pessoas. Ele continua a ser uma plataforma central para muitos usuários e empresas ao redor do mundo.
