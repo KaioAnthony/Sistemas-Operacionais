@@ -68,21 +68,21 @@ Software refere-se aos programas e aplicativos que executam tarefas específicas
 2. Software de Aplicação: Programas que permitem aos usuários realizar tarefas específicas.
 - Pacotes de Escritório:
  ```markdown 
-     Como Microsoft Office (Word, Excel, PowerPoint).
+           Como Microsoft Office (Word, Excel, PowerPoint).
 ```
 
 - Navegadores de Internet:
  ```markdown 
-     Como Google Chrome, Firefox, Edge.
+          Como Google Chrome, Firefox, Edge.
 ```
 - Aplicativos de Edição:
  ```markdown 
-     Como Adobe Photoshop para edição de imagens.
+          Como Adobe Photoshop para edição de imagens.
 ```
 
 - Jogos:
  ```markdown 
-     Como Fortnite, Minecraft.
+          Como Fortnite, Minecraft.
 ```
 #
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gqEiwIMVkR2A96zjYYppEe4EAXVBaD5gnRxhFJLT3iYoFfMK5fdOMqOWSHXCYxW9k94&usqp=CAU)
@@ -100,64 +100,64 @@ Um sistema operacional (SO) é um software essencial que gerencia todos os compo
 
 1. Gerenciamento de Processos:
 ```markdown 
-     O SO gerencia a execução dos processos, permitindo que vários programas rodem simultaneamente, 
-     alocando recursos e garantindo que cada aplicação tenha acesso necessário ao processador.
+          O SO gerencia a execução dos processos, permitindo que vários programas rodem simultaneamente, 
+          alocando recursos e garantindo que cada aplicação tenha acesso necessário ao processador.
 ```
 
 2. Gerenciamento de Memória:
 ```markdown  
-     Ele aloca memória para diferentes aplicativos e garante que cada um tenha o espaço 
-     necessário, enquanto monitora e libera memória quando não está mais em uso.
+          Ele aloca memória para diferentes aplicativos e garante que cada um tenha o espaço 
+          necessário, enquanto monitora e libera memória quando não está mais em uso.
 ```
 
 3. Gerenciamento de Dispositivos:
 ```markdown 
-     O SO controla e comunica-se com todos os dispositivos de entrada 
-     e saída, como teclados, mouses, impressoras e discos rígidos.
+          O SO controla e comunica-se com todos os dispositivos de entrada 
+          e saída, como teclados, mouses, impressoras e discos rígidos.
 ```
 
 4. Gerenciamento de Arquivos:
 ```markdown 
-     Ele organiza e controla a leitura, gravação e 
-     acesso aos arquivos no sistema de armazenamento.
+          Ele organiza e controla a leitura, gravação e 
+          acesso aos arquivos no sistema de armazenamento.
 ```
 
 5. Interface de Usuário:
 ```markdown 
-     Fornece uma interface que permite aos usuários interagirem facilmente com o computador,
-     seja por meio de interfaces de linha de comando (CLI) ou interfaces gráficas de usuário (GUI).
+          Fornece uma interface que permite aos usuários interagirem facilmente com o computador,
+          seja por meio de interfaces de linha de comando (CLI) ou interfaces gráficas de usuário (GUI).
 ```
 #
 #### Exemplos de sistemas operacionais:
 
 1. Windows:
 ```markdown 
-     Desenvolvido pela Microsoft, é um dos sistemas 
-     operacionais mais populares do mundo para PCs.
+          Desenvolvido pela Microsoft, é um dos sistemas 
+          operacionais mais populares do mundo para PCs.
 ```
 
 2. macOS:
 ```markdown  
-     Desenvolvido pela Apple, é 
-     usado em computadores Mac.
+          Desenvolvido pela Apple, é 
+          usado em computadores Mac.
 ```
 
 3. Linux:
 ```markdown  
-     Um sistema operacional de código aberto 
-     amplamente utilizado em servidores e por usuários 
-     que preferem uma customização maior.
+          Um sistema operacional de código aberto 
+          amplamente utilizado em servidores e por usuários 
+          que preferem uma customização maior.
 ```
 
 4. Android:
 ```markdown  
-     Usado principalmente em dispositivos 
-     móveis e desenvolvido pelo Google.
+          Usado principalmente em dispositivos 
+          móveis e desenvolvido pelo Google.
 ```
 
 5. iOS:
 ```markdown  
-     Desenvolvido pela Apple para Dispositivos móveis, como iPhones e iPads.
+          Desenvolvido pela Apple para Dispositivos móveis, como iPhones e iPads.
 ```
 ##
 ![](https://miro.medium.com/v2/resize:fit:754/1*zjpA46uhnmbENYQ69T0mbw.png)
@@ -169,55 +169,55 @@ O Windows é um sistema operacional gráfico desenvolvido pela Microsoft. Foi la
 
 1. Interface Gráfica de Usuário (GUI):
 ```markdown 
-O Windows é conhecido por sua interface gráfica 
-intuitiva que facilita o uso do sistema por iniciantes 
-e usuários experientes.
+          O Windows é conhecido por sua interface gráfica 
+          intuitiva que facilita o uso do sistema por iniciantes 
+          e usuários experientes.
 ```
 
 2. Compatibilidade de Software:
 ```markdown 
-O Windows suporta uma ampla variedade de software, 
-desde aplicativos de produtividade até jogos de alta performance.
+          O Windows suporta uma ampla variedade de software, 
+          desde aplicativos de produtividade até jogos de alta performance.
 ```
 
 3. Segurança:
 ```markdown 
-O Windows inclui várias ferramentas de segurança, como o 
-Windows Defender, para proteger contra malware e ameaças de segurança.
+          O Windows inclui várias ferramentas de segurança, como o 
+          Windows Defender, para proteger contra malware e ameaças de segurança.
 ```
 
 4. Atualizações Regulares:
 ```markdown  
-A Microsoft lança atualizações regulares para o Windows, 
-fornecendo melhorias de desempenho, novos recursos e patches de segurança.
+          A Microsoft lança atualizações regulares para o Windows, 
+          fornecendo melhorias de desempenho, novos recursos e patches de segurança.
 ```
 
 5. Ecosistema Integrado:
 ```markdown 
-O Windows oferece integração com outros serviços da Microsoft, 
-como o Office 365, OneDrive e Xbox.
+          O Windows oferece integração com outros serviços da Microsoft, 
+          como o Office 365, OneDrive e Xbox.
 ```
 #
 #### Versões Populares do Windows:
 
 Windows 95:
 ```markdown 
-Introduziu o menu Iniciar e a barra de tarefas.
+          Introduziu o menu Iniciar e a barra de tarefas.
 ```
 
 Windows XP: 
 ```markdown
-Amplamente usado por sua estabilidade e interface amigável.
+          Amplamente usado por sua estabilidade e interface amigável.
 ```
 
 Windows 7: 
 ```markdown
-Conhecido por sua interface polida e desempenho melhorado.
+          Conhecido por sua interface polida e desempenho melhorado.
 ```
 
 Windows 10: 
 ```markdown
-Versão atual com atualizações contínuas e integração com serviços de nuvem.
+          Versão atual com atualizações contínuas e integração com serviços de nuvem.
 ```
 #
 ![](https://learn.microsoft.com/pt-br/windows/images/windows-logo.png)
@@ -228,53 +228,53 @@ O Windows é um sistema operacional desenvolvido pela Microsoft e lançado pela 
 
 1. Windows 1.0 (1985): 
 ```markdown
-A primeira versão do Windows foi lançada como uma interface gráfica que rodava sobre o MS-DOS.
-Ela introduziu o conceito de janelas, mas não tinha um "desktop" como conhecemos hoje.
+          A primeira versão do Windows foi lançada como uma interface gráfica que rodava sobre o MS-DOS.
+          Ela introduziu o conceito de janelas, mas não tinha um "desktop" como conhecemos hoje.
 ```
 
 2. Windows 2.0 (1987): 
 ```markdown
-Esta versão permitiu que as janelas fossem sobrepostas e introduziu termos como "minimizar" e "maximizar".
+          Esta versão permitiu que as janelas fossem sobrepostas e introduziu termos como "minimizar" e "maximizar".
 ```
 
 3. Windows 3.0 (1990):
 ```markdown 
-Foi um grande avanço, com melhorias significativas na interface gráfica e desempenho, tornando-se mais popular entre os usuários.
+          Foi um grande avanço, com melhorias significativas na interface gráfica e desempenho, tornando-se mais popular entre os usuários.
 ```
 
 4. Windows 95 (1995): 
 ```markdown
-Um divisor de águas, introduziu o menu Iniciar e a barra de tarefas, além de ser o primeiro a exigir um disco rígido.
+          Um divisor de águas, introduziu o menu Iniciar e a barra de tarefas, além de ser o primeiro a exigir um disco rígido.
 ```
 
 5. Windows XP (2001): 
 ```markdown
-Conhecido por sua estabilidade e interface amigável, se tornou um dos sistemas operacionais mais populares da Microsoft.
+          Conhecido por sua estabilidade e interface amigável, se tornou um dos sistemas operacionais mais populares da Microsoft.
 ```
 
 6. Windows Vista (2007): 
 ```markdown
-Embora tenha introduzido muitas novas funcionalidades, enfrentou críticas por problemas de desempenho e compatibilidade.
+          Embora tenha introduzido muitas novas funcionalidades, enfrentou críticas por problemas de desempenho e compatibilidade.
 ```
 
 7. Windows 7 (2009): 
 ```markdown
-Corrigiu muitos dos problemas do Vista e foi bem recebido pelos usuários.
+          Corrigiu muitos dos problemas do Vista e foi bem recebido pelos usuários.
 ```
 
 8. Windows 8 (2012):
 ```markdown
-Introduziu uma interface moderna, mas enfrentou resistência devido à mudança drástica na interface.
+          Introduziu uma interface moderna, mas enfrentou resistência devido à mudança drástica na interface.
 ```
 
 9. Windows 10 (2015):
 ```markdown
-Voltou a uma interface mais familiar, com atualizações contínuas e integração com serviços de nuvem.
+          Voltou a uma interface mais familiar, com atualizações contínuas e integração com serviços de nuvem.
 ```
 
 10. Windows 11 (2021):
 ```markdown 
-A versão mais recente, com uma interface renovada e novas funcionalidades, mantendo a compatibilidade com aplicativos antigos.
+          A versão mais recente, com uma interface renovada e novas funcionalidades, mantendo a compatibilidade com aplicativos antigos.
 ```
 #
 ## Conclusão
